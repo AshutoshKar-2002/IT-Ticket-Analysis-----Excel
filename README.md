@@ -136,7 +136,7 @@ Converted the analysis into practical observations and recommendations for impro
 ```text
 IT-Ticket-Analysis-Dashboard/
 │
-├── 📊 Excel Dashboard & Charts (.xlsx)
-├── 📑 Project Presentation (.ppt)
-├── 📝 Project Q&A Documentation (.docx)
+├── 📊 IT Ticket Analysis Dashboard & Charts (.xlsx)
+├── 📑 IT Ticket Analysis_ Presentation (.ppt)
+├── 📝 IT Ticket Analysis-QA (.docx)
 └── 📄 README.md
